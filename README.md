@@ -6,7 +6,7 @@ Marianna is missing and she desperately needs help ...
 - [ ] hash sha256
 - [ ] Signal
 - [ ] Tor browser
-- [ ] PGP
+- [ ] encrypting, decrypting, signing by PGP
 - [ ] uBlock
 - [ ] btc wallet
 - [ ] ln wallet
