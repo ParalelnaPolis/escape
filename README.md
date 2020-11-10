@@ -16,6 +16,7 @@ Marianna is missing and she desperately needs help ...
 - [ ] ipfs
 - [ ] Openbazaar
 - [ ] sharing files
+- [ ] price of onchain transaction jochen-hoenicke.de 
 
 Ability to share on:
 
