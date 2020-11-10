@@ -13,6 +13,9 @@ Marianna is missing and she desperately needs help ...
 - [ ] xmr wallet
 - [ ] op_return
 - [ ] dark net
+- [ ] ipfs
+- [ ] Openbazaar
+- [ ] sharing files
 
 Ability to share on:
 
